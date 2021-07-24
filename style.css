@@ -1,0 +1,5 @@
+.shoe-style{
+    transition: .4s;
+}
+.shoe-style:hover{
+    transform: scale(1.1);
